@@ -31,19 +31,19 @@ from pyrogram.errors import FloodWait
 async def huhh(client: Client, message: Message):
     await message.reply_video(
         video=f"https://graph.org/file/fb68ae3b5a2e1d62fd94f.mp4",
-        caption=f"""• [⌯𝐃𝐄𝐕.𝐒𝐎𝐔𝐑𝐂𝐄⌯](https://t.me/y_o_v) •\n
- [⌯𝐒𝐎𝐔𝐑𝐂𝐄 𝗕𝗹𝗮𝗰𝗸⌯](https://t.me/KKC8C)\n
+        caption=f"""• [⌯𝐃𝐄𝐕.𝐒𝐎𝐔𝐑𝐂𝐄⌯](https://t.me/O_U_S1) •\n
+ [⌯𝐒𝐎𝐔𝐑𝐂𝐄 𝗕𝗹𝗮𝗰𝗸⌯](https://t.me/O_U_Q1)\n
  [⌯𝐒𝐔𝐏𝐏𝐔𝐑𝐓.𝐒𝐎𝐔𝐑𝐂𝐄⌯](https://t.me/Senzir_Suuport)\n""",
         reply_markup=InlineKeyboardMarkup(
         [
             [
                     InlineKeyboardButton(
-                        "‹ 𝐃𝐄𝐕 𝐒𝐎𝐔𝐑𝐂𝐄 › ", url=f"https://t.me/y_o_v"),
+                        "‹ 𝐃𝐄𝐕 𝐒𝐎𝐔𝐑𝐂𝐄 › ", url=f"https://t.me/O_U_S1"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ ᏟᎻᎪΝΝᎬᏞ ›", url=f"https://t.me/KKC8C"), 
+                        "‹ ᏟᎻᎪΝΝᎬᏞ ›", url=f"https://t.me/O_U_Q1"), 
                     InlineKeyboardButton(
-                        "‹ ᏟᎻᎪΝΝᎬᏞ² ›", url=f"https://t.me/cecrr"),
+                        "‹ ᏟᎻᎪΝΝᎬᏞ² ›", url=f"https://t.me/O_U_Q1"),
                 ],[
                     InlineKeyboardButton(
                         "‹ اضف بوت السورس الي مجموعتك ⚡️ ⋅ ›", url=f"http://t.me/F6Z_bot?startgroup=new"),
@@ -57,15 +57,15 @@ async def huhh(client: Client, message: Message):
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://graph.org/file/a52bd3bd88fffadf20aca.jpg",
-        caption=f"""• ⌯ Developer Name : ˛ 𓆩ََِِ𝐘َِْ𝐎ِِ𝐔ًٌُ𝐒𝐄ُِ𝐅𓆪 ⌯ •\n- Devloper Username : @y_o_v Devloper id : 6094238403 ⋅""",
+        caption=f"""• ⌯ Developer Name : ˛ 𝐇 𝐌 𝐃 ⌯ •\n- Devloper Username : @O_U_S1 Devloper id : 6526392564 ⋅""",
         reply_markup=InlineKeyboardMarkup(
         [
             [
                     InlineKeyboardButton(
-                        " ‹ قناة السورس ⋅ › ", url=f"https://t.me/KKC8C"),
+                        " ‹ قناة السورس ⋅ › ", url=f"https://t.me/O_U_Q1"),
                 ],[
                     InlineKeyboardButton(
-                        "⏤͟͞ َِ⍣⃟َ𝐓𝐇ِ𝐄 𓆩ََِِ𝐘َِْ𝐎ِِ𝐔ًٌُ𝐒𝐄ُِ𝐅𓆪", url=f"https://t.me/y_o_v"), 
+                        "𝐇 𝐌 𝐃", url=f"https://t.me/O_U_S1"), 
                 ],[
                     InlineKeyboardButton(
                         "‹ اضف بوت السورس الي مجموعتك ⚡️🎸 ⋅ ›", url=f"http://t.me/@6Z_bot?startgroup=new"),
