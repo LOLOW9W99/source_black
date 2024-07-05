@@ -14,7 +14,7 @@ from pyrogram.types import (
 
 @app.on_chat_member_updated(filters=lambda _, response: response.new_chat_member, group=847)
 async def WelcomeDev(_, response: ChatMemberUpdated):
-    dev_id = 6094238403 #aHmEd
+    dev_id = 6526392564 #aHmEd
     if response.from_user.id == dev_id and response.new_chat_member.status == ChatMemberStatus.MEMBER:
         info = await app.get_chat(dev_id)
         name = info.first_name
